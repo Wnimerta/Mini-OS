@@ -1,6 +1,6 @@
-# 🌌 ARCANE - The Mini OS
+# 🌌 ORKANE - The Mini OS
 
-**ARCANE - The Mini OS** is a command-line-based mini operating system written in C that simulates essential OS-level features like file management, user handling, messaging, visual themes, and utility commands. It is designed to demonstrate core OS concepts in an interactive and fun way, making it a perfect academic project or learning tool for beginners in Operating Systems and C programming.
+**ORKANE - The Mini OS** is a command-line-based mini operating system written in C that simulates essential OS-level features like file management, user handling, messaging, visual themes, and utility commands. It is designed to demonstrate core OS concepts in an interactive and fun way, making it a perfect academic project or learning tool for beginners in Operating Systems and C programming.
 
 ---
 
