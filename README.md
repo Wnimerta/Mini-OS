@@ -97,21 +97,24 @@ README.md            # This file
  <img width="416" alt="image" src="https://github.com/user-attachments/assets/86a0198d-7f38-457e-9568-0791093875df" />
 
 ---
+## 🎓 Academic Context
+This project was developed under the supervision of Dr. Mumtaz Kaloi as part of the Operating Systems course at Sukkur IBA University.
 
-## 🧑‍💻 Authors
+## 👩‍💻 Developed By
 
-- 👩‍💻 Nimerta Wadhwani  
-  _Computer Systems Engineer
-
+- 👩‍💻 Nimerta Wadhwani
+- 👩‍💻 Rabia Soomro
+  _Computer Systems Engineers
+  
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. You are free to modify, distribute, or use it in your own projects with proper attribution.
+This project is licensed under the **MIT License**. You can modify, distribute, or use it in your projects with proper attribution.
 
 ---
 
 ## 🙌 Acknowledgments
 
 - Designed and developed as part of Operating Systems coursework.
-- Inspired by real OS-level functionalities simplified for educational purposes.
+- Inspired by real OS-level functionalities, simplified for educational purposes.
